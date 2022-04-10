@@ -1,0 +1,15 @@
+h1 {
+    color: #ff0000
+}
+
+header {
+    text-align: center;
+}
+
+body {
+    font-family: Bahnschrift;
+}
+.maintext {
+    width: 700px;
+    text-align: left;
+}
